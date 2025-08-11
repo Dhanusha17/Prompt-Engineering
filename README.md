@@ -15,11 +15,13 @@ To create a bedtime story for children aged 5 to 7 about a bat who is afraid of 
 # STEP-5: Use the prompt in a generative AI model to produce the story text.
 
 ## PROGRAM:
+```
 Write a heartwarming bedtime story for children aged 5–7 about a little bat named Benny who is afraid of the dark.  
 The story should be simple and engaging, with 10 short parts, each suitable for one illustrated page.  
 Use gentle, comforting language with a touch of magic.  
 Include scene descriptions for each part to guide future illustrations (but no images).  
 The story should teach a lesson about facing fears, making friends, and finding beauty in the night.
+```
 
 ## OUTPUT:
 https://gemini.google.com/gem/storybook/30addf721a761593
