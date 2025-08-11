@@ -5,26 +5,43 @@
 Write a bedtime story about a bat who is afraid of dark for children aged 5 to 7.
 
 ## AIM:
-To create a bedtime story for children aged 5 to 7 about a bat who is afraid of the dark using prompt engineering techniques.
+To create a colorful and attractive bedtime story for young children about a bat who overcomes the fear of the dark.
+
+
 
 ## ALOGORITHM:
-# STEP-1: Define the target audience and age group (5–7 years old).
-# STEP-2: Choose the main character and the core theme (bat afraid of the dark).
-# STEP-3: Specify the tone, style, and purpose of the story (gentle, magical, encouraging).
-# STEP-4: Create a detailed prompt including character names, plot, and moral lesson.
-# STEP-5: Use the prompt in a generative AI model to produce the story text.
+# STEPS:
+# STEP-1: Understand the theme and audience — bedtime story for children aged 5 to 7.
+# STEP-2: Choose a main character — a bat who fears the dark.
+# STEP-3: Create a simple plot with a beginning, middle, and end.
+# STEP-4: Use friendly and imaginative language suitable for kids.
+# STEP-5: End with a positive and comforting message.
+
 
 ## PROGRAM:
 ```
-Write a heartwarming bedtime story for children aged 5–7 about a little bat named Benny who is afraid of the dark.  
-The story should be simple and engaging, with 10 short parts, each suitable for one illustrated page.  
-Use gentle, comforting language with a touch of magic.  
-Include scene descriptions for each part to guide future illustrations (but no images).  
-The story should teach a lesson about facing fears, making friends, and finding beauty in the night.
+Title: Benny the Brave Bat
+
+Once upon a time, in a quiet forest, there lived a little bat named Benny.
+Benny was unlike other bats — he was afraid of the dark!
+When the sun went down, Benny would hide under his blanket, peeking out at the moon with worried eyes.
+
+One evening, Benny’s best friend, Luna the firefly, flew into his room.
+“Benny,” she said, “The night isn’t scary! It’s full of magic. Come, I’ll show you.”
+
+Holding onto Luna’s glowing light, Benny fluttered outside.
+They saw stars twinkling like diamonds, owls singing gentle songs, and flowers that only bloomed under moonlight.
+Benny realized that the dark wasn’t empty — it was full of beautiful things waiting to be seen.
+
+From that day on, Benny spread his wings happily every night, exploring the wonders of the dark with Luna by his side.
+
+And every bedtime, he would whisper, “The night is my friend.”
 ```
 
 ## OUTPUT:
-https://gemini.google.com/gem/storybook/30addf721a761593
+https://g.co/gemini/share/12d7b2f22c5a
 
 ## RESULT :
-Successfully generated a child-friendly bedtime story using prompt engineering, meeting the set requirements for age, theme, and tone.
+The story “Benny the Brave Bat” can be used in a children’s storybook with colorful illustrations to make it more engaging and visually attractive.
+
+
